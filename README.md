@@ -101,6 +101,4 @@ We welcome contributions to improve our social platform. Feel free to fork the r
 
 ---
 
-## 📜 License
-[MIT License](LICENSE)
 
