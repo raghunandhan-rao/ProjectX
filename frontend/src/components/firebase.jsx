@@ -1,27 +1,3 @@
-
-
-// import { initializeApp } from "firebase/app";
-// import { getAuth } from "firebase/auth";
-// import { getFirestore } from "firebase/firestore";
-
-// // Your web app's Firebase configuration
-// const firebaseConfig = {
-//   apiKey: "AIzaSyC5TeSYwp0ItE4fMFWK3loMDYcCfUEAs1U",
-//   authDomain: "projectx-1225d.firebaseapp.com",
-//   projectId: "projectx-1225d",
-//   storageBucket: "projectx-1225d.appspot.com",
-//   messagingSenderId: "265895248248",
-//   appId: "1:265895248248:web:9696be14bd6df2c7b3488d",
-//   measurementId: "G-P8JLY5GPP1"
-// };
-
-// // Initialize Firebase
-// const app = initializeApp(firebaseConfig);
-
-// // Export services
-// export const auth = getAuth(app);
-// export const db = getFirestore(app);
-
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
