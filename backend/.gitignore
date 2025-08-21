@@ -1,0 +1,15 @@
+# Dependencies folder
+# This folder is usually very large and can be re-created by running 'npm install'
+/node_modules
+
+# Environment variables file
+# IMPORTANT: This file contains your secret database password and should never be shared
+.env
+
+# Log files
+logs
+*.log
+npm-debug.log*
+
+# Optional macOS files
+.DS_Store
