@@ -13,3 +13,5 @@ npm-debug.log*
 
 # Optional macOS files
 .DS_Store
+# Firebase Admin SDK private key
+serviceAccountKey.json
